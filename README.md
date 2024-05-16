@@ -19,6 +19,7 @@ I'm a full-stack .NET developer based in Pakistan, with a strong background in c
 - Facebook: https://www.facebook.com/musa.imran3/
 - Instagram: https://www.instagram.com/musa_imran_/
 - Portfolio: https://musa-imran.github.io/my-portfolio/
+- WhatsApp: https://wa.link/tf1tx9
 - Email: musaimran932@gmail.com
 
 
