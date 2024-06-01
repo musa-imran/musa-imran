@@ -4,12 +4,13 @@ I'm a full-stack .NET developer based in Pakistan, with a strong background in c
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, React
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, AngularJS
 - **Backend:** C#, ASP.NET
 - **ORM:** Entity Framework
 - **Database:** Microsoft SQL Server
 - **Reporting:** SQL Server Reporting Services, Microsoft Power BI
 - **Tools:** Visual Studio, SQL Server Management Studio, Git
+- **Themes & UI:** Kendo Telerik UI Controls
 - **Deployement:** Microsoft IIS, Azure Cloud Services
 
   
